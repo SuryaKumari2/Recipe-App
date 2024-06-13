@@ -1,0 +1,9 @@
+body{
+    background: url('./assets/food.jpg');
+    background-size: cover;
+}
+h1{
+    font-weight: 900;
+    margin: 50px;
+    color: white;
+}
